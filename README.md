@@ -1,4 +1,4 @@
-# LLM Exploration and Applications
+# LLMs Project
 
 The following repository contains a series of projects and assignments exploring various aspects of Large Language Models (LLMs). Including foundational concepts, practical implementations, and advanced techniques such as fine-tuning and prompt engineering.
 
